@@ -5,4 +5,6 @@ I am a data analyst proficient in producing analytic reports and data visualizat
 
 - :computer: I’m currently learning SQL Server Administration
 - :chart_with_upwards_trend: I’m looking to collaborate on everything data analysis projects
-- :speech_balloon: Let's talk data [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gcinithemba-sherilyn-maphosa-1a0a71ab/)
+- :speech_balloon: Let's talk data [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gcinithemba-sherilyn-maphosa-1a0a71ab/)
+
+
